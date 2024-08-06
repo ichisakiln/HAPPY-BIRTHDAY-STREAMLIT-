@@ -8,3 +8,4 @@ else:
     VIDEO_URL = "https://www.youtube.com/watch?v=2GK1B1RshN4"
 
 st.balloons()
+st.video(VIDEO_URL, start_time=2)
